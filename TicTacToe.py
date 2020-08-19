@@ -223,25 +223,3 @@ while True :
         break
     else:
         continue
-                
-    
-
-
-    
-    
-    
-
-
-# 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
